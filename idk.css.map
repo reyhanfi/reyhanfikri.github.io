@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACD,gBAAgB,EAAE,IAAI;CACvB",
+    "sources": [
+        "idk.scss"
+    ],
+    "names": [],
+    "file": "idk.css"
+}
